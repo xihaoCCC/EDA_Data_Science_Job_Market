@@ -1,4 +1,5 @@
 # **Data Science Job Market EDA and Analysis**
+Please refer to the PDF file for the analysis results
 
 ## **Overview**
 The Data Science domain has witnessed significant growth in the last decade, influencing sectors like tech, finance, healthcare, and retail. Today, Data Professionals, adept at transforming raw data into meaningful insights, are highly sought after worldwide.
@@ -16,6 +17,7 @@ Access the Dataset: https://www.kaggle.com/datasets/rashikrahmanpritom/data-scie
 
 
 ## **File Description**
+- `DS_JobMarket_Analysis.pdf`: PDF report showcasing the analysis findings, complete with detailed visualizations and geographical maps.
 - `DS_JobMarket_Analysis.ipynb`: Jupyter Notebook detailing the comprehensive analysis and visualization of the Data Science job market.
 - `Uncleaned_DS_jobs.csv`: Raw dataset containing job postings for Data Science positions sourced from Glassdoor.
 
