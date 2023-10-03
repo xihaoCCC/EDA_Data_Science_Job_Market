@@ -16,7 +16,7 @@ Access the Dataset: https://www.kaggle.com/datasets/rashikrahmanpritom/data-scie
 
 
 ## **File Description**
-- 'DS_JobMarket_Analysis.ipynb': Jupyter Notebook detailing the comprehensive analysis and visualization of the Data Science job market.
-- 'Uncleaned_DS_jobs.csv': Raw dataset containing job postings for Data Science positions sourced from Glassdoor.
+- `DS_JobMarket_Analysis.ipynb`: Jupyter Notebook detailing the comprehensive analysis and visualization of the Data Science job market.
+- `Uncleaned_DS_jobs.csv`: Raw dataset containing job postings for Data Science positions sourced from Glassdoor.
 
 ### For inquiries or further discussion, please reach out to me at [xihaocao@163.com](mailto:xihaocao@163.com). Thank you!
