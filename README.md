@@ -1,4 +1,4 @@
-# **Data Science Job Market Analysis**
+# **Data Science Job Market EDA and Analysis**
 
 ## **Overview**
 The Data Science domain has witnessed significant growth in the last decade, influencing sectors like tech, finance, healthcare, and retail. Today, Data Professionals, adept at transforming raw data into meaningful insights, are highly sought after worldwide.
@@ -14,6 +14,7 @@ This project analyzes a dataset of Data Science job postings from Glassdoor to u
 Comprising 672 unique Data Science roles from Glassdoor, each entry spans 14 detailed attributes, from job specifics to company metrics.
 
 - [Access the Dataset](https://www.kaggle.com/datasets/rashikrahmanpritom/data-science-job-posting-on-glassdoor)
+
 
 ## **File Description**
 - DS_JobMarket_Analysis.ipynb: Jupyter Notebook detailing the comprehensive analysis and visualization of the Data Science job market.
